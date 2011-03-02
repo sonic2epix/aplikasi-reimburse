@@ -1,1 +1,5 @@
-# Eclipse configuration
+# Netbeans 
+build
+dist
+private
+class
